@@ -1,0 +1,13 @@
+header h3{
+    display: inline-block;
+}
+.icono{
+    padding-top: 5%;
+    padding-left: 0;
+    width:10%;
+}
+header i{
+    font-size: 120%;
+    line-height: 2;
+    
+}
